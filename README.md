@@ -3,7 +3,7 @@
 Este é um projeto de uma landing page para a agência de viagens fictícia Wanderlust Adventures. O objetivo deste projeto é praticar e aprimorar habilidades em desenvolvimento web utilizando HTML, CSS com display Grid e display Flex.
 
 <p align="center">
-<img width="1000" height="800" src="./src/images/travel1.png">
+<img width="1342" height="603" src="./src/images/travel1.png">
 </p>
 
 ## Tecnologias Utilizadas
